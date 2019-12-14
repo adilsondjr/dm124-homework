@@ -48,12 +48,13 @@
 					}
 				},
 				"url": {
-					"raw": "http://localhost:8080/api/deliveries",
+					"raw": "http://dm124-adilson.herokuapp.com/api/deliveries",
 					"protocol": "http",
 					"host": [
-						"localhost"
+						"dm124-adilson",
+						"herokuapp",
+						"com"
 					],
-					"port": "8080",
 					"path": [
 						"api",
 						"deliveries"
@@ -91,12 +92,13 @@
 					}
 				],
 				"url": {
-					"raw": "http://localhost:8080/api/deliveries",
+					"raw": "http://dm124-adilson.herokuapp.com/api/deliveries",
 					"protocol": "http",
 					"host": [
-						"localhost"
+						"dm124-adilson",
+						"herokuapp",
+						"com"
 					],
-					"port": "8080",
 					"path": [
 						"api",
 						"deliveries"
@@ -126,12 +128,13 @@
 				"method": "GET",
 				"header": [],
 				"url": {
-					"raw": "http://localhost:8080/api/deliveries/1",
+					"raw": "http://dm124-adilson.herokuapp.com/api/deliveries/1",
 					"protocol": "http",
 					"host": [
-						"localhost"
+						"dm124-adilson",
+						"herokuapp",
+						"com"
 					],
-					"port": "8080",
 					"path": [
 						"api",
 						"deliveries",
@@ -184,12 +187,13 @@
 					}
 				},
 				"url": {
-					"raw": "http://localhost:8080/api/deliveries/1",
+					"raw": "http://dm124-adilson.herokuapp.com/api/deliveries/1",
 					"protocol": "http",
 					"host": [
-						"localhost"
+						"dm124-adilson",
+						"herokuapp",
+						"com"
 					],
-					"port": "8080",
 					"path": [
 						"api",
 						"deliveries",
@@ -227,16 +231,17 @@
 					}
 				],
 				"url": {
-					"raw": "http://localhost:8080/api/deliveries/2",
+					"raw": "http://dm124-adilson.herokuapp.com/api/deliveries/1",
 					"protocol": "http",
 					"host": [
-						"localhost"
+						"dm124-adilson",
+						"herokuapp",
+						"com"
 					],
-					"port": "8080",
 					"path": [
 						"api",
 						"deliveries",
-						"2"
+						"1"
 					]
 				}
 			},
