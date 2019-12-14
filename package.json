@@ -2,8 +2,9 @@
   "name": "dm124-homework",
   "version": "1.0.0",
   "description": "DM124 homework",
-  "main": "index.js",
   "scripts": {
+    "start": "node ./src/server",
+    "start:dev": "nodemon ./src/server"
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
