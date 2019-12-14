@@ -1,0 +1,22 @@
+{
+  "name": "dm124-homework",
+  "version": "1.0.0",
+  "description": "DM124 homework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adilsondjr/dm124-homework.git"
+  },
+  "keywords": [
+    "DM124"
+  ],
+  "author": "adilsondjr",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adilsondjr/dm124-homework/issues"
+  },
+  "homepage": "https://github.com/adilsondjr/dm124-homework#readme"
+}
